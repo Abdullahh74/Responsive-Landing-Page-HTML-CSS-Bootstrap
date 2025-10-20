@@ -7,7 +7,7 @@ The design is mobile-first, clean, and optimized for all screen sizes.
 
 ## 🚀 Live Demo
 
-[🔗 View Project on GitHub Pages](https://yourusername.github.io/responsive-landing-page-bootstrap/)
+[🔗 View Project on GitHub Pages](https://abdullahh74.github.io/Responsive-Landing-Page-HTML-CSS-Bootstrap/)
 
 ---
 
@@ -44,5 +44,6 @@ The design is mobile-first, clean, and optimized for all screen sizes.
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┗ 📜 README.md
+
 
 
