@@ -1,0 +1,24 @@
+.bg-cover {
+    background-image: url('./image/Rectangle.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+
+.btn-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0d6efd;
+    border: none;
+    text-decoration: none;
+}
+
+.btn-circle i {
+    font-size: 24px;
+    color: white;
+}
