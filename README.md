@@ -40,7 +40,9 @@ The design is mobile-first, clean, and optimized for all screen sizes.
 ## 📂 Folder Structure
 
 📁 responsive-landing-page-bootstrap
-┣ 📂 image
-┣ 📜 index.html
-┣ 📜 style.css
-┗ 📜 README.md
+ ┣ 📂 images
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┗ 📜 README.md
+
+
