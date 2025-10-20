@@ -39,11 +39,8 @@ The design is mobile-first, clean, and optimized for all screen sizes.
 
 ## 📂 Folder Structure
 
-📁 responsive-landing-page-bootstrap
- ┣ 📂 images
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┗ 📜 README.md
+<pre> ```bash 📁 responsive-landing-page-bootstrap ┣ 📂 images ┣ 📜 index.html ┣ 📜 style.css ┗ 📜 README.md ``` </pre>
+
 
 
 
